@@ -1,15 +1,15 @@
 ---
 page_id: about
 layout: about
-title: about
+title: 概要
 permalink: /
-subtitle: Ph.D. student @ <a href='https://www.u-tokyo.ac.jp/en/'>UTokyo</a>
+subtitle: 博士課程学生 @ <a href='https://www.u-tokyo.ac.jp/ja/'>UTokyo</a>
 
 profile:
   align: right
   image: Oriprof.jpg
   image_circular: false # crops the image to make it circular
-  more_info: > #<p>Science Building 1, The University of Tokyo</p> #<p>7-3-1, Hongo, Bunkyo-ku</p> #<p>Tokyo, Japan, 113-8654</p>
+  more_info: > #<p>113-8654</p><p>東京都文京区本郷7-3-1</p><p>東京大学本郷キャンパス理学部1号館</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons
@@ -36,8 +36,8 @@ latest_posts:
 
 <h2 class="desc"><span class="contact-icons">{% include social.liquid %}</span></h2>
 
-I am a 2nd-year Ph.D. student in the [Ito group](https://webpark2072.sakura.ne.jp/laben/) at [Department of Physics](https://www.phys.s.u-tokyo.ac.jp/en/), [Graduate School of Science](https://www.s.u-tokyo.ac.jp/en/), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
+私は、[東京大学](https://www.u-tokyo.ac.jp/ja/) [大学院理学系研究科](https://www.s.u-tokyo.ac.jp/ja/) [物理学専攻](https://www.phys.s.u-tokyo.ac.jp/) [伊藤研究室](https://webpark2072.sakura.ne.jp/lab/)の大学院生（博士後期課程2年）です。
 
-I have interests in nonequilibrium thermodynamics, optimal transport, and a vast and elegant structure hidden behind what is now visible to us.
+非平衡熱力学と最適輸送理論、そして今見えているものの背後にあるより巨大な構造に興味があります。
 
-I also love origami as a hobby. I will eventually upload my past works here.
+趣味は折紙です。いずれ過去に創作した作品をまとめて公開する予定です。

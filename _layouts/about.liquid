@@ -2,17 +2,21 @@
 layout: default
 ---
 <div class="post">
+
+{% comment %}
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
+        {{ site.last_name }} <span style="font-size: 0.9em;">{{ site.japanese_name }}</span>
       {% else %}
         {{ site.title }}
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
+{% endcomment %}
+
 
   <article>
     {% if page.profile %}
@@ -63,14 +67,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.data[site.active_lang].strings.contact_note }}</div>
-      </div>
-    {% endif %}
+    {% comment %}
+      {% if page.social %}
+        <div class="social">
+          <div class="contact-icons">{% include social.liquid %}</div>
+          <div class="contact-note">{{ site.data[site.active_lang].strings.contact_note }}</div>
+        </div>
+      {% endif %}
+    {% endcomment %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}

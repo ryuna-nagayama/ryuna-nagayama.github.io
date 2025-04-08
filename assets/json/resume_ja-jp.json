@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "永山 龍那",
+    "label": "博士課程学生",
+    "email": "ryuna.nagayama@ubi.s.u-tokyo.ac.jp",
+    "url": "https://tatsuna.github.io",
+    "summary": "東京大学の博士後期課程2年生です"
+  },
+  "education": [
+    {
+      "institution": "東京大学大学院理学系研究科物理学専攻",
+      "location": "東京都",
+      "url": "https://www.u-tokyo.ac.jp/en/",
+      "area": "",
+      "studyType": "博士後期課程",
+      "startDate": "2024-04",
+      "endDate": "現在"
+    },
+    {
+      "institution": "東京大学大学院理学系研究科物理学専攻",
+      "location": "東京都",
+      "url": "https://www.u-tokyo.ac.jp/en/",
+      "area": "",
+      "studyType": "修士（理学）",
+      "startDate": "2022-04",
+      "endDate": "2024-03"
+    },
+    {
+      "institution": "東京大学理学部物理学科",
+      "location": "東京都",
+      "url": "https://www.u-tokyo.ac.jp/en/",
+      "studyType": "学士（理学）",
+      "startDate": "2018-04",
+      "endDate": "2022-03"
+    }
+  ],
+  "awards": [
+    {
+      "title": "理学系研究科研究奨励賞",
+      "date": "2024-03-12",
+      "awarder": "東京大学大学院理学系研究科",
+      "url": "https://www.s.u-tokyo.ac.jp/ja/info/10252/"
+    },
+    {
+      "title": "第4回研究奨励賞",
+      "date": "2024-03-05",
+      "awarder": "新学術領域研究「情報物理学でひもとく生命の秩序と設計原理」",
+      "url": "https://infophys-bio.jp/award"
+    },
+    {
+      "title": "第6回領域会議発表賞",
+      "date": "2023-03-07",
+      "awarder": "新学術領域研究「情報物理学でひもとく生命の秩序と設計原理」",
+      "url": "https://infophys-bio.jp/archives/950"
+    },
+    {
+      "title": "理学部学修奨励賞",
+      "date": "2022-03-07",
+      "awarder": "東京大学理学部",
+      "url": "https://warp.ndl.go.jp/info:ndljp/pid/12972979/www.s.u-tokyo.ac.jp/ja/awards/encouragement/R3.html"
+    }
+  ],
+  "fellowships": [
+    {
+      "name": "特別研究員 (DC2)",
+      "institution": "日本学術振興会 (JSPS)",
+      "url": "https://www.jsps.go.jp/j-pd/index.html",
+      "startDate": "2025-04",
+      "endDate": "2027-03"
+    },
+    {
+      "name": "JSR Fellowship",
+      "institution": "東京大学, JSR株式会社",
+      "url": "https://curie.phys.s.u-tokyo.ac.jp/fellowship/",
+      "startDate": "2024-04",
+      "endDate": "2027-03"
+    },
+    {
+      "name": "変革を駆動する先端物理・数学プログラム (FoPM)",
+      "institution": "東京大学国際卓越大学院教育プログラム (WINGS)",
+      "url": "https://www.s.u-tokyo.ac.jp/ja/FoPM/",
+      "startDate": "2022-04",
+      "endDate": "2027-03"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "データベーススペシャリスト試験",
+      "date": "2022-10",
+      "issuer": "独立行政法人情報処理推進機構",
+      "url": "https://www.ipa.go.jp/shiken/kubun/db.html"
+    },
+    {
+      "name": "応用情報技術者試験",
+      "date": "2022-04",
+      "issuer": "独立行政法人情報処理推進機構",
+      "url": "https://www.ipa.go.jp/shiken/kubun/ap.html"
+    }
+  ],
+  "languages": [
+    {
+      "language": "日本語",
+      "fluency": "母語",
+      "icon": ""
+    },
+    {
+      "language": "英語",
+      "fluency": "",
+      "icon": ""
+    }
+  ]
+}
+

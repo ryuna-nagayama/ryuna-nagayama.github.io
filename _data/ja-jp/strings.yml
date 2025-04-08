@@ -28,61 +28,61 @@ collections:
   posts: posts
 contact_note: #You can even add a little note about which of these is the best way to reach you.
 cv:
-  address: Address
-  area: Area
-  awarder: Awarder
-  awards: Awards
-  basics: General information
-  fellowships: Fellowships
-  certificates: Certificates
-  city: City
-  countryCode: Country code
-  courses: Courses
-  date: Date
-  education: Education
+  address: 住所
+  area: 地域
+  awarder: 授賞者
+  awards: 受賞
+  basics: 基礎情報
+  fellowships: フェローシップ
+  certificates: 資格
+  city: 都市
+  countryCode: 国名コード
+  courses: コース
+  date: 日付
+  education: 学歴
   email: Email
-  endDate: End date
-  fluency: Fluency
-  highlights: Highlights
-  image: Image
-  institution: Institution
-  interests: Interests
+  endDate: 終了日
+  fluency: 流暢
+  highlights: ハイライト
+  image: イメージ
+  institution: 機関
+  interests: 興味
   issuer: Issuer
-  keywords: Keywords
-  label: Label
-  language: Language
-  languages: Languages
-  level: Level
-  location: Location
-  name: Name
-  network: Network
-  organization: Organization
-  phone: Phone
-  position: Position
-  postalCode: Postal Code
-  present: Present
-  profiles: Profiles
-  projects: Projects
-  publications: Publications
-  publisher: Publisher
-  reference: Reference
-  references: References
-  region: Region
-  releaseDate: Release date
-  score: Score
-  skills: Skills
-  startDate: Start date
+  keywords: キーワード
+  label: 肩書
+  language: 言語
+  languages: 言語
+  level: レベル
+  location: 場所
+  name: 名前
+  network: ネットワーク
+  organization: 機関
+  phone: 電話番号
+  position: 役職
+  postalCode: 郵便番号
+  present: 現在
+  profiles: プロフィール
+  projects: プロジェクト
+  publications: 出版物
+  publisher: 出版元
+  reference: 参照先
+  references: 参照先
+  region: 地域
+  releaseDate: リリース日
+  score: スコア
+  skills: 技能
+  startDate: 開始日
   studyType: Study type
-  summary: Summary
+  summary: 説明
   table_of_contents: Table of Contents
-  title: Title
+  title: 名称
   url: URL
   username: Username
-  volunteer: Volunteer
+  volunteer: ボランティア
   work: Work
 footer:
   copyright: Copyright
-  last_updated: "Last updated:"
+  last_updated: "最終更新:"
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
