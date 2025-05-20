@@ -420,7 +420,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-attending-leuven-school-basics-of-nonequilibrium-statistical-mechanics",
           title: 'I’m attending Leuven school: Basics of nonequilibrium statistical mechanics.',
           description: "",
-          section: "News",},{id: "news-our-new-preprint-diagrammatic-expressions-for-steady-state-distribution-and-static-responses-in-population-dynamics-have-been-released",
+          section: "News",},{id: "news-our-new-preprint-diagrammatic-expressions-for-steady-state-distribution-and-static-responses-in-population-dynamics-has-been-released",
           title: 'Our new preprint “Diagrammatic expressions for steady-state distribution and static responses in population...',
           description: "",
           section: "News",},{id: "projects-project-7",
