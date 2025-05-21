@@ -11,6 +11,9 @@ nav_order: 4
 <hr style="border: 1px solid black;" />
 
 ### Oral
+"Infinite variety of thermodynamic speed limits derived by general means"
+Leuven school: Basics of nonequilibrium statistical mechanics, May 19-23, Aula Arenbergkasteel, KU Leuven, Leuven, Belgium
+
 "Extension of optimal transport to chemical reaction network"
 2nd FoPM International Symposium, Feb. 17-19, 2025, Ito Hall, The University of Tokyo, Tokyo, Japan.
 
@@ -57,9 +60,6 @@ The 68th Condensed Matter Physics Summer School, Aug. 12–15, 2023, Makino Park
 "Geometric thermodynamics for reaction diffusion system"
 2023 Spring Meeting, The Physical Society of Japan, Mar. 22-25, 2023, Online.
 
-"Geometric speed limit for systems accelerated by natural selection"
-UBI lunch-meeting, Nov. 16, 2022, Online & Hongo campus, The University of Tokyo, Tokyo, Japan.
-
 "Information thermodynamic decomposition of entropy production rate on deterministic CRN"
 2022 Autumn Meeting, The Physical Society of Japan, Sep. 12-15, 2022, Ookayama campus, Tokyo Institute of Technology, Tokyo, Japan.
 
@@ -77,3 +77,10 @@ Kyushu caravan 2025, Japanese Society for Quantitative Biology, Jan. 11-12, 2025
 
 "Thermodynamic trade-off relations for reaction-diffusion systems"
 6th Conference, Grant-in-Aid for Scientific Research on Innovative Areas: "Information physics of living matters," Mar. 6–7, 2023, ACROS Fukuoka International Conference Hall, Fukuoka, Japan.
+
+## Seminar
+"Infinite variety of activities and thermodynamic speed limits based on general means"
+Hatano Group Seminar, May. 15, 2025, Online & The large conference room, Research and Testing Complex I, IIS, the University of Tokyo, Chiba.
+
+"Geometric speed limit for systems accelerated by natural selection"
+UBI lunch-meeting, Nov. 16, 2022, Online & Hongo campus, The University of Tokyo, Tokyo, Japan.
