@@ -12,7 +12,7 @@ nav_order: 4
 
 ### 口頭
 "Infinite variety of thermodynamic speed limits derived by general means"
-Leuven school: Basics of nonequilibrium statistical mechanics, May 19-23, Aula Arenbergkasteel, KU Leuven, Leuven, Belgium
+Leuven school: Basics of nonequilibrium statistical mechanics, May 19-23, 2025, Aula Arenbergkasteel, KU Leuven, Leuven, Belgium
 
 "Extension of optimal transport to chemical reaction network"
 2nd FoPM International Symposium, Feb. 17-19, 2025, Ito Hall, The University of Tokyo, Tokyo, Japan.
@@ -80,8 +80,12 @@ ERATO・学術変革B合同合宿会議, 2025年3月26日～28日, ふくしま�
 新学術領域研究「情報物理学でひもとく生命の秩序と設計原理」第6回領域会議, 2023年3月6日～7日, アクロス福
 岡 国際会議場, 福岡.
 
+<br>
+<br>
 
-##　セミナー
+##　 セミナー
+<hr style="border: 1px solid black;" />
+
 "Infinite variety of activities and thermodynamic speed limits based on general means"
 Hatano Group Seminar, 2025年5月15日, オンライン&東京大学生産技術研究所 研究実験棟Ｉ大会議室, 千葉.
 

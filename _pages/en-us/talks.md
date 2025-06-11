@@ -12,7 +12,7 @@ nav_order: 4
 
 ### Oral
 "Infinite variety of thermodynamic speed limits derived by general means"
-Leuven school: Basics of nonequilibrium statistical mechanics, May 19-23, Aula Arenbergkasteel, KU Leuven, Leuven, Belgium
+Leuven school: Basics of nonequilibrium statistical mechanics, May 19-23, 2025, Aula Arenbergkasteel, KU Leuven, Leuven, Belgium
 
 "Extension of optimal transport to chemical reaction network"
 2nd FoPM International Symposium, Feb. 17-19, 2025, Ito Hall, The University of Tokyo, Tokyo, Japan.
@@ -78,7 +78,12 @@ Kyushu caravan 2025, Japanese Society for Quantitative Biology, Jan. 11-12, 2025
 "Thermodynamic trade-off relations for reaction-diffusion systems"
 6th Conference, Grant-in-Aid for Scientific Research on Innovative Areas: "Information physics of living matters," Mar. 6–7, 2023, ACROS Fukuoka International Conference Hall, Fukuoka, Japan.
 
+<br>
+<br>
+
 ## Seminar
+<hr style="border: 1px solid black;" />
+
 "Infinite variety of activities and thermodynamic speed limits based on general means"
 Hatano Group Seminar, May. 15, 2025, Online & The large conference room, Research and Testing Complex I, IIS, the University of Tokyo, Chiba.
 
