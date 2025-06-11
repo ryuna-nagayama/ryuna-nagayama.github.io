@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "updated Apr 08, 2025. Click the right icon for pdf version.",
+          description: "updated Jun. 11, 2025. Click the right icon for pdf version.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
