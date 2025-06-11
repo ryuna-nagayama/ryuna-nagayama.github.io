@@ -83,7 +83,7 @@ ERATO・学術変革B合同合宿会議, 2025年3月26日～28日, ふくしま�
 <br>
 <br>
 
-##　 セミナー
+## セミナー
 <hr style="border: 1px solid black;" />
 
 "Infinite variety of activities and thermodynamic speed limits based on general means"
