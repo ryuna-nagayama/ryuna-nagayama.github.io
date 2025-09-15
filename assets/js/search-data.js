@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "updated Jun. 11, 2025. Click the right icon for pdf version.",
+          description: "updated Sep. 15, 2025. Click the right icon for pdf version.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
@@ -422,6 +422,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-new-preprint-diagrammatic-expressions-for-steady-state-distribution-and-static-responses-in-population-dynamics-has-been-released",
           title: 'Our new preprint “Diagrammatic expressions for steady-state distribution and static responses in population...',
+          description: "",
+          section: "News",},{id: "news-our-paper-geometric-thermodynamics-of-reaction-diffusion-systems-thermodynamic-trade-off-relations-and-optimal-transport-for-pattern-formation-has-been-published-in-physical-review-research",
+          title: 'Our paper “Geometric thermodynamics of reaction-diffusion systems: Thermodynamic trade-off relations and optimal transport...',
+          description: "",
+          section: "News",},{id: "news-our-new-preprint-duality-between-dissipation-coherence-trade-off-and-thermodynamic-speed-limit-based-on-thermodynamic-uncertainty-relation-for-stochastic-limit-cycles-in-the-weak-noise-limit-has-been-released",
+          title: 'Our new preprint “Duality between dissipation-coherence trade-off and thermodynamic speed limit based on...',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',

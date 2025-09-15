@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-履歴書",
           title: "履歴書",
-          description: "最終更新は2025年6月11日です。 PDF版には隣のアイコンからアクセスできます。",
+          description: "最終更新は2025年9月15日です。 PDF版には隣のアイコンからアクセスできます。",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/ja-jp/cv/";
@@ -422,6 +422,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-共同研究のプレプリント-diagrammatic-expressions-for-steady-state-distribution-and-static-responses-in-population-dynamics-が公開されました",
           title: '共同研究のプレプリント “Diagrammatic expressions for steady-state distribution and static responses in population dynamics” が公開されました。...',
+          description: "",
+          section: "News",},{id: "news-論文-geometric-thermodynamics-of-reaction-diffusion-systems-thermodynamic-trade-off-relations-and-optimal-transport-for-pattern-formation-がphysical-review-research誌に掲載されました",
+          title: '論文 “Geometric thermodynamics of reaction-diffusion systems: Thermodynamic trade-off relations and optimal transport for...',
+          description: "",
+          section: "News",},{id: "news-新しいプレプリント-duality-between-dissipation-coherence-trade-off-and-thermodynamic-speed-limit-based-on-thermodynamic-uncertainty-relation-for-stochastic-limit-cycles-in-the-weak-noise-limit-を公開しました",
+          title: '新しいプレプリント “Duality between dissipation-coherence trade-off and thermodynamic speed limit based on thermodynamic uncertainty...',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
