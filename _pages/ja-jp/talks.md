@@ -26,6 +26,9 @@ STATPHYS28, Aug. 7-11, 2023, Hongo campus, The University of Tokyo, Tokyo, Japan
 <br>
 
 ### ポスター
+"Infinite variety of thermodynamic speed limits with activities based on general means"
+STATPHYS29, Jul. 13-18, 2025, Palazzo dei Congressi & Palaffari, Florence, Italy.
+
 "Infinite variety of thermodynamic speed limits"
 1st India-Japan Workshop on Physical Aspects of Living Systems, Feb. 19-21, 2025, Mishima Hall, ELSI, Institute of Science Tokyo, Tokyo, Japan.
 
@@ -42,6 +45,9 @@ FoPM International Symposium, Feb. 6-8, 2023, Ito Hall, The University of Tokyo,
 <hr style="border: 1px solid black;" />
 
 ### 口頭
+「弱ノイズ下のリミットサイクルにおける散逸とコヒーレンスの間のトレードオフ関係」
+JSR Fellowship 2025年度 CURIE生 研究発表会, 2025年7月10日, オンライン & 東京大学本郷キャンパス, 東京.
+
 「一般の平均に基づくアクティビティによる無限種類の熱力学的速度限界」
 ERATO・学術変革B合同合宿会議, 2025年3月26日～28日, ふくしま磐梯熱海温泉ホテル華の湯, 福島.
 

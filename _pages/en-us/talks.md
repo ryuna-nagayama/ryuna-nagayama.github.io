@@ -26,6 +26,9 @@ STATPHYS28, Aug. 7-11, 2023, Hongo campus, The University of Tokyo, Tokyo, Japan
 <br>
 
 ### Poster
+"Infinite variety of thermodynamic speed limits with activities based on general means"
+STATPHYS29, Jul. 13-18, 2025, Palazzo dei Congressi & Palaffari, Florence, Italy.
+
 "Infinite variety of thermodynamic speed limits"
 1st India-Japan Workshop on Physical Aspects of Living Systems, Feb. 19-21, 2025, Mishima Hall, ELSI, Institute of Science Tokyo, Tokyo, Japan.
 
@@ -42,6 +45,9 @@ FoPM International Symposium, Feb. 6-8, 2023, Ito Hall, The University of Tokyo,
 <hr style="border: 1px solid black;" />
 
 ### Oral
+"Dissipation-coherence trade-off for stochastic limit cycles in the weak-noise limit"
+JSR Fellowship CURIE Students Research Presentation Session 2025, Jul. 10, 2025, Online & Hongo Campus, The University of Tokyo, Tokyo, Japan.
+
 "Infinite variety of thermodynamic speed limits with activities based on general means"
 ERATO and Academic Transformation B Joint Camp Meeting, Mar. 26-28, 2025, Hotel Hananoyu, Fukushima, Japan.
 
