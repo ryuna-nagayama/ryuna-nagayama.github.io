@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "updated Sep. 15, 2025. Click the right icon for pdf version.",
+          description: "updated Sep. 29, 2025. Click the right icon for pdf version.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
@@ -428,6 +428,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-new-preprint-duality-between-dissipation-coherence-trade-off-and-thermodynamic-speed-limit-based-on-thermodynamic-uncertainty-relation-for-stochastic-limit-cycles-in-the-weak-noise-limit-has-been-released",
           title: 'Our new preprint “Duality between dissipation-coherence trade-off and thermodynamic speed limit based on...',
+          description: "",
+          section: "News",},{id: "news-our-new-preprint-geometric-decomposition-of-information-flow-new-insights-into-information-thermodynamics-has-been-released",
+          title: 'Our new preprint “Geometric decomposition of information flow: New insights into information thermodynamics”...',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',

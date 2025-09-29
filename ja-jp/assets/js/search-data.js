@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-履歴書",
           title: "履歴書",
-          description: "最終更新は2025年9月15日です。 PDF版には隣のアイコンからアクセスできます。",
+          description: "最終更新は2025年9月29日です。 PDF版には隣のアイコンからアクセスできます。",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/ja-jp/cv/";
@@ -428,6 +428,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-新しいプレプリント-duality-between-dissipation-coherence-trade-off-and-thermodynamic-speed-limit-based-on-thermodynamic-uncertainty-relation-for-stochastic-limit-cycles-in-the-weak-noise-limit-を公開しました",
           title: '新しいプレプリント “Duality between dissipation-coherence trade-off and thermodynamic speed limit based on thermodynamic uncertainty...',
+          description: "",
+          section: "News",},{id: "news-共同研究のプレプリント-geometric-decomposition-of-information-flow-new-insights-into-information-thermodynamics-が公開されました",
+          title: '共同研究のプレプリント “Geometric decomposition of information flow: New insights into information thermodynamics” が公開されました。',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
