@@ -499,6 +499,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=W_btdJYAAAAJ", "_blank");
         },
       },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/ryu7ga8ma", "_blank");
+        },
+      },{
           id: 'lang-ja-jp',
           title: 'ja-jp',
           section: 'Languages',
