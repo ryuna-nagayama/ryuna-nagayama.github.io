@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-履歴書",
           title: "履歴書",
-          description: "最終更新は2025年9月29日です。 PDF版には隣のアイコンからアクセスできます。",
+          description: "最終更新は2025年12月12日です。 PDF版には隣のアイコンからアクセスできます。",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/ja-jp/cv/";
