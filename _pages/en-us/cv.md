@@ -6,7 +6,7 @@ title: cv
 nav: true
 nav_order: 2
 cv_pdf: rnagayama_cv_en.pdf # you can also use external links here
-description: updated Sep. 29, 2025. Click the right icon for pdf version.
+description: updated Dec. 12, 2025. Click the right icon for pdf version.
 toc:
   sidebar: left
 ---

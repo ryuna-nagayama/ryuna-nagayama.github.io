@@ -11,6 +11,9 @@ nav_order: 4
 <hr style="border: 1px solid black;" />
 
 ### 口頭
+"Duality between dissipation-coherence trade-off and thermodynamic speed limit for noisy oscillations"
+Kyoto Workshop on Quantum Thermodynamics and Stochastic Thermodynamics 2025, Dec. 8-12, 2025, Panasonic Auditorium, Yukawa Hall, YITP, Kyoto University, Japan 
+
 "Infinite variety of thermodynamic speed limits derived by general means"
 Leuven school: Basics of nonequilibrium statistical mechanics, May 19-23, 2025, Aula Arenbergkasteel, KU Leuven, Leuven, Belgium
 
