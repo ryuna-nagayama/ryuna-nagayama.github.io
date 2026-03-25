@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "updated Mar. 17, 2026. Click the right icon for pdf version.",
+          description: "updated Mar. 25, 2026. Click the right icon for pdf version.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
@@ -434,6 +434,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-new-preprint-geometric-decomposition-of-information-flow-for-overdamped-langevin-systems-and-optimal-transport-in-subsystems-has-been-released",
           title: 'Our new preprint “Geometric decomposition of information flow for overdamped Langevin systems and...',
+          description: "",
+          section: "News",},{id: "news-our-paper-diagrammatic-expressions-for-steady-state-distribution-and-static-responses-in-population-dynamics-has-been-published-in-physical-review-research",
+          title: 'Our paper “Diagrammatic expressions for steady-state distribution and static responses in population dynamics”...',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',

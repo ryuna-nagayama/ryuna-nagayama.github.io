@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-履歴書",
           title: "履歴書",
-          description: "最終更新は2026年3月17日です。 PDF版には隣のアイコンからアクセスできます。",
+          description: "最終更新は2026年3月25日です。 PDF版には隣のアイコンからアクセスできます。",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/ja-jp/cv/";
@@ -434,6 +434,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-共同研究のプレプリント-geometric-decomposition-of-information-flow-for-overdamped-langevin-systems-and-optimal-transport-in-subsystems-が公開されました",
           title: '共同研究のプレプリント “Geometric decomposition of information flow for overdamped Langevin systems and optimal transport...',
+          description: "",
+          section: "News",},{id: "news-共同研究の論文-diagrammatic-expressions-for-steady-state-distribution-and-static-responses-in-population-dynamics-がphysical-review-research誌に掲載されました",
+          title: '共同研究の論文 “Diagrammatic expressions for steady-state distribution and static responses in population dynamics” がPhysical...',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
