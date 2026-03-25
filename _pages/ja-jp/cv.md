@@ -6,7 +6,7 @@ title: 履歴書
 nav: true
 nav_order: 2
 cv_pdf: rnagayama_cv_ja.pdf # you can also use external links here
-description: 最終更新は2026年3月17日です。 PDF版には隣のアイコンからアクセスできます。
+description: 最終更新は2026年3月25日です。 PDF版には隣のアイコンからアクセスできます。
 toc:
   sidebar: left
 ---
