@@ -36,8 +36,8 @@ latest_posts:
 
 <h2 class="desc"><span class="contact-icons">{% include social.liquid %}</span></h2>
 
-I am a 2nd-year Ph.D. student in the [Ito group](https://webpark2072.sakura.ne.jp/laben/) at [Department of Physics](https://www.phys.s.u-tokyo.ac.jp/en/), [Graduate School of Science](https://www.s.u-tokyo.ac.jp/en/), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
+I am a 3rd-year Ph.D. student in the [Ito group](https://webpark2072.sakura.ne.jp/laben/) at [Department of Physics](https://www.phys.s.u-tokyo.ac.jp/en/), [Graduate School of Science](https://www.s.u-tokyo.ac.jp/en/), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
 I have interests in nonequilibrium thermodynamics, optimal transport, and a vast and elegant structure hidden behind what is now visible to us.
 
-I also love origami as a hobby. I will eventually upload my past works here.
+I also love origami as a hobby. 

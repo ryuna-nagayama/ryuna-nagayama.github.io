@@ -36,8 +36,8 @@ latest_posts:
 
 <h2 class="desc"><span class="contact-icons">{% include social.liquid %}</span></h2>
 
-私は、[東京大学](https://www.u-tokyo.ac.jp/ja/) [大学院理学系研究科](https://www.s.u-tokyo.ac.jp/ja/) [物理学専攻](https://www.phys.s.u-tokyo.ac.jp/) [伊藤研究室](https://webpark2072.sakura.ne.jp/lab/)の大学院生（博士後期課程2年）です。
+私は、[東京大学](https://www.u-tokyo.ac.jp/ja/) [大学院理学系研究科](https://www.s.u-tokyo.ac.jp/ja/) [物理学専攻](https://www.phys.s.u-tokyo.ac.jp/) [伊藤研究室](https://webpark2072.sakura.ne.jp/lab/)の大学院生（博士後期課程3年）です。
 
 非平衡熱力学と最適輸送理論、そして今見えているものの背後にあるより巨大な構造に興味があります。
 
-趣味は折紙です。いずれ過去に創作した作品をまとめて公開する予定です。
+趣味は折紙です。
