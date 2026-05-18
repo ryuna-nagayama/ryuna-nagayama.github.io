@@ -11,6 +11,8 @@ nav_order: 4
 <hr style="border: 1px solid black;" />
 
 ### 口頭
+"Duality between dissipation-coherence trade-off and thermodynamic speed limit for noisy limit cycles" Workshop on Stochastic Thermodynamics VII, May. 18-22, 2026, Online.
+
 "Duality between dissipation-coherence trade-off and thermodynamic speed limit for noisy oscillations"
 Kyoto Workshop on Quantum Thermodynamics and Stochastic Thermodynamics 2025, Dec. 8-12, 2025, Panasonic Auditorium, Yukawa Hall, YITP, Kyoto University, Japan 
 
@@ -29,6 +31,8 @@ STATPHYS28, Aug. 7-11, 2023, Hongo campus, The University of Tokyo, Tokyo, Japan
 <br>
 
 ### ポスター
+"Duality of thermodynamic trade-offs for stochastic limit cycles" Frontiers in Nonequilibrium Physics 2026, May. 11-14, 2026, Maskawa Building for Education and Research, Kyoto University, Kyoto, Japan.
+
 "Infinite variety of thermodynamic speed limits with activities based on general means"
 STATPHYS29, Jul. 13-18, 2025, Palazzo dei Congressi & Palaffari, Florence, Italy.
 
@@ -48,6 +52,9 @@ FoPM International Symposium, Feb. 6-8, 2023, Ito Hall, The University of Tokyo,
 <hr style="border: 1px solid black;" />
 
 ### 口頭
+「最適反応理論：最適輸送理論の化学反応ネットワークへの拡張」
+JSR Fellowship 2026年度 CURIE生 研究発表会, 2026年5月15日, オンライン & 東京大学本郷キャンパス, 東京.
+
 「弱ノイズ下のリミットサイクルにおける散逸とコヒーレンスの間のトレードオフ関係」
 JSR Fellowship 2025年度 CURIE生 研究発表会, 2025年7月10日, オンライン & 東京大学本郷キャンパス, 東京.
 
