@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "updated May. 18, 2026. Click the right icon for pdf version.",
+          description: "updated Jun. 8, 2026. Click the right icon for pdf version.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
@@ -437,6 +437,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-diagrammatic-expressions-for-steady-state-distribution-and-static-responses-in-population-dynamics-has-been-published-in-physical-review-research",
           title: 'Our paper “Diagrammatic expressions for steady-state distribution and static responses in population dynamics”...',
+          description: "",
+          section: "News",},{id: "news-our-new-preprint-oscillatory-nonnormal-decomposition-of-dissipation-in-ornstein-uhlenbeck-processes-has-been-released",
+          title: 'Our new preprint “Oscillatory-nonnormal decomposition of dissipation in Ornstein-Uhlenbeck processes” has been released....',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',

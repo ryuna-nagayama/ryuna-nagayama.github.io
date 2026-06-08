@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-履歴書",
           title: "履歴書",
-          description: "最終更新は2026年5月18日です。 PDF版には隣のアイコンからアクセスできます。",
+          description: "最終更新は2026年6月8日です。 PDF版には隣のアイコンからアクセスできます。",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/ja-jp/cv/";
@@ -437,6 +437,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-共同研究の論文-diagrammatic-expressions-for-steady-state-distribution-and-static-responses-in-population-dynamics-がphysical-review-research誌に掲載されました",
           title: '共同研究の論文 “Diagrammatic expressions for steady-state distribution and static responses in population dynamics” がPhysical...',
+          description: "",
+          section: "News",},{id: "news-新しいプレプリント-oscillatory-nonnormal-decomposition-of-dissipation-in-ornstein-uhlenbeck-processes-を公開しました",
+          title: '新しいプレプリント “Oscillatory-nonnormal decomposition of dissipation in Ornstein–Uhlenbeck processes” を公開しました。',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
