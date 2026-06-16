@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "updated Jun. 8, 2026. Click the right icon for pdf version.",
+          description: "updated Jun. 16, 2026. Click the right icon for pdf version.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
@@ -440,6 +440,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-new-preprint-oscillatory-nonnormal-decomposition-of-dissipation-in-ornstein-uhlenbeck-processes-has-been-released",
           title: 'Our new preprint “Oscillatory-nonnormal decomposition of dissipation in Ornstein-Uhlenbeck processes” has been released....',
+          description: "",
+          section: "News",},{id: "news-our-paper-geometric-decomposition-of-information-flow-new-insights-into-information-thermodynamics-has-been-published-in-physical-review-research",
+          title: 'Our paper “Geometric decomposition of information flow: New insights into information thermodynamics” has...',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
