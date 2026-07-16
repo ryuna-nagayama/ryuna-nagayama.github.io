@@ -11,6 +11,8 @@ nav_order: 4
 <hr style="border: 1px solid black;" />
 
 ### 口頭
+“Dual thermodynamic uncertainty relations: dissipation-coherence trade-off and thermodynamic speed limit for noisy limit cycles” SigmaPhi (International Conference on Statistical Physics) 2026, Jul. 6-10, 2026, Avra Imperial Hotel, Kolymbari, Crete, Greece.
+
 "Duality between dissipation-coherence trade-off and thermodynamic speed limit for noisy limit cycles" Workshop on Stochastic Thermodynamics VII, May. 18-22, 2026, Online.
 
 "Duality between dissipation-coherence trade-off and thermodynamic speed limit for noisy oscillations"
