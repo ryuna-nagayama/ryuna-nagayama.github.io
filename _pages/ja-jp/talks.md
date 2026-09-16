@@ -54,6 +54,9 @@ FoPM International Symposium, Feb. 6-8, 2023, Ito Hall, The University of Tokyo,
 <hr style="border: 1px solid black;" />
 
 ### 口頭
+線形Langevin系における散逸の振動-非正規分解とその応用」
+日本物理学会第81回年次大会, 2026年9月14日～17日, 東京大学駒場キャンパス, 東京
+
 「最適反応理論：最適輸送理論の化学反応ネットワークへの拡張」
 JSR Fellowship 2026年度 CURIE生 研究発表会, 2026年5月15日, オンライン & 東京大学本郷キャンパス, 東京.
 
@@ -102,6 +105,8 @@ ERATO・学術変革B合同合宿会議, 2025年3月26日～28日, ふくしま�
 
 ## セミナー
 <hr style="border: 1px solid black;" />
+“Oscillatory-nonnormal decomposition of entropy production in Ornstein–Uhlenbeck processes”
+Saito Group Seminar, 2026年7月27日, オンライン.
 
 "Infinite variety of activities and thermodynamic speed limits based on general means"
 Hatano Group Seminar, 2025年5月15日, オンライン&東京大学生産技術研究所 研究実験棟Ｉ大会議室, 千葉.

@@ -54,7 +54,11 @@ FoPM International Symposium, Feb. 6-8, 2023, Ito Hall, The University of Tokyo,
 <hr style="border: 1px solid black;" />
 
 ### Oral
-"Optimal reaction theory: A generalization of optimal transport to chemical reaction networks" JSR Fellowship CURIE Students Research Presentation Session 2026, May. 15, 2026, Online & Hongo Campus, The University of Tokyo, Tokyo, Japan.
+“Oscillatory-nonnormal decomposition of dissipation in linear Langevin systems and its applications” 
+81th Annual Meeting, The Physical Society of Japan, Sep. 14–17, 2026, Komaba Campus, The University of Tokyo, Tokyo, Japan.
+
+"Optimal reaction theory: A generalization of optimal transport to chemical reaction networks"
+JSR Fellowship CURIE Students Research Presentation Session 2026, May. 15, 2026, Online & Hongo Campus, The University of Tokyo, Tokyo, Japan.
 
 "Dissipation-coherence trade-off for stochastic limit cycles in the weak-noise limit"
 JSR Fellowship CURIE Students Research Presentation Session 2025, Jul. 10, 2025, Online & Hongo Campus, The University of Tokyo, Tokyo, Japan.
@@ -100,6 +104,8 @@ Kyushu caravan 2025, Japanese Society for Quantitative Biology, Jan. 11-12, 2025
 
 ## Seminar
 <hr style="border: 1px solid black;" />
+“Oscillatory-nonnormal decomposition of entropy production in Ornstein–Uhlenbeck processes” 
+Saito Group Seminar, Jul. 27, 2026, Online.
 
 "Infinite variety of activities and thermodynamic speed limits based on general means"
 Hatano Group Seminar, May. 15, 2025, Online & The large conference room, Research and Testing Complex I, IIS, the University of Tokyo, Chiba.
